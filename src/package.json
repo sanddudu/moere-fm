@@ -1,0 +1,18 @@
+{
+	"name": "Moe.re-online-fm",
+	"main": "index.html",
+	"frame": true,
+	"webkit": {
+    	"plugin": true
+  	},
+  	"window": {
+  		"icon": "moere.ico",
+  		"toolbar": false,
+  		"min_width": 650,
+    	"min_height": 414,
+    	"max_width": 650,
+    	"max_height": 414,
+    	"width": 650,
+    	"height": 414
+    }
+}
