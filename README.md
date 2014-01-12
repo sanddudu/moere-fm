@@ -23,7 +23,7 @@ For Ubuntu 12.10 (x64): [Here](https://launchpad.net/ubuntu/quantal/amd64/chromi
 For Ubuntu 13.04 (x86): [Here](https://launchpad.net/ubuntu/raring/i386/chromium-codecs-ffmpeg-extra/28.0.1500.71-0ubuntu1.13.04.1)  
 For Ubuntu 13.04 (x64): [Here](https://launchpad.net/ubuntu/raring/amd64/chromium-codecs-ffmpeg-extra/28.0.1500.71-0ubuntu1.13.04.1)  
 
-Extract the DEB file and put the libffmpegsumo.so into your files folder. The libffmpegsumo.so file will be in usr/chromium-browsers folder.
+Extract the DEB file and put the libffmpegsumo.so into your files folder. The extracted libffmpegsumo.so file will be in ./usr/chromium-browsers folder.
 
 Useage
 --------
