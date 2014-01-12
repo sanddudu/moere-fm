@@ -30,7 +30,7 @@ Usage
 --------
 Just Open It!
 
-Screenshot
+Screenshots
 --------
 Windows Version:  
 ![windows-start](http://cdn.code5light.com/node-webkit-moere/00.png)
