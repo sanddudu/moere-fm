@@ -25,7 +25,7 @@ For Ubuntu 13.04 (x64): [Here](https://launchpad.net/ubuntu/raring/amd64/chromiu
 
 Extract the DEB file and put the libffmpegsumo.so into your files folder. The extracted libffmpegsumo.so file will be in ./usr/chromium-browsers folder.
 
-Useage
+Usage
 --------
 Just Open It!
 
