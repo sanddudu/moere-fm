@@ -38,9 +38,9 @@ Ubuntu Version:
 ![ubuntu-play](http://cdn.code5light.com/node-webkit-moere/04.jpg)
 
 Mac OS X Version:
-![mac-os-x-start](http://cdn.code5light.com/node-webkit-moere/05.png)
+![mac-os-x-start](http://cdn.code5light.com/node-webkit-moere/06.png)
 
-![max-os-x-play](http://cdn.code5light.com/node-webkit-moere/06.png)
+![max-os-x-play](http://cdn.code5light.com/node-webkit-moere/07.png)
 
 And ... Windows XP:  
 ![windows-xp](http://cdn.code5light.com/node-webkit-moere/05.jpg)
