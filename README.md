@@ -7,7 +7,7 @@ Current version: V0.0.1
 
 Testers
 --------
-Ubuntu Version: **orzFly** and **Juli**
+Ubuntu Version: **orzFly** and **Juli**  
 Mac OS X version: **mouto**
 
 About Library
