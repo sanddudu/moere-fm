@@ -3,7 +3,7 @@ Moe.re FM
 
 A Moe.re FM on node-webkit
 
-Current version: V0.0.1
+Current version: V1.0.0
 
 Testers
 --------
