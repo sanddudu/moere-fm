@@ -47,5 +47,9 @@ And ... Windows XP:
 
 ChangeLog
 --------
+V1.0.0:  
+Add User Setting Page  
+Add Listen music by Music ID  
+Add Listen music follow other user  
 V0.0.1:  
 First Version
