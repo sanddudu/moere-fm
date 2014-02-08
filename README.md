@@ -3,7 +3,7 @@ Moe.re FM
 
 A Moe.re FM on node-webkit
 
-Current version: V1.0.0
+Current version: V1.0.1
 
 Testers
 --------
@@ -47,6 +47,8 @@ And ... Windows XP:
 
 ChangeLog
 --------
+V1.0.1:  
+Now you can back to main screen by close Radio window  
 V1.0.0:  
 Add User Setting Page  
 Add Listen music by Music ID  
