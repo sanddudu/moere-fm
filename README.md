@@ -1,7 +1,7 @@
 Moe.re FM
 ========
 
-A Moe.re FM on node-webkit
+A Moe.re Third Party Radio Client
 
 Current version: V1.0.1
 
