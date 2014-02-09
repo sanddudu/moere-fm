@@ -1,57 +1,57 @@
 Moe.re FM
 ========
 
-A Moe.re Third Party Radio Client
+Moe.re 第三方电台客户端
 
-Current version: V1.0.1
+当前版本: V1.0.1
 
-Testers
+测试员
 --------
-Ubuntu Version: **orzFly** and **Juli**  
-Mac OS X version: **mouto**
+Ubuntu 版: **orzFly** 和 **Juli**  
+Mac OS X 版: **mouto**
 
-About Library
+关于库
 --------
-If you use linux-x64 or linux-x86, you may need change the libffmpegsumo.so file.
+如果你使用的是 linux-x64 版或 linux-x86 版，你可能需要更换 libffmpegsumo.so 文件。
 
-* In linux-x64 version pack, the libffmpegsumo.so is for Ubuntu 12.04 Chromium 28.0.1500.71.  
-* In linux-x86 version pack, the libffmpegsumo.so is for Ubuntu 12.10 Chromium 28.0.1500.71.
+* 在 linux-x64 版本中，libffmpegsumo.so 文件默认供 Ubuntu 12.04 使用，文件来自 Chromium 28.0.1500.71。  
+* In linux-x86 版本中, libffmpegsumo.so 文件默认供 Ubuntu 12.10 使用，文件来自 Chromium 28.0.1500.71。
 
-libffmpegsumo.so download link:  [Here](https://github.com/sanddudu/moere-fm/wiki/The-ffmpegsumo.so-download-for-Ubuntu)
+libffmpegsumo.so 下载链接:  [点此](https://github.com/sanddudu/moere-fm/wiki/The-ffmpegsumo.so-download-for-Ubuntu)
 
-Extract the DEB file and put the libffmpegsumo.so into your files folder. The extracted libffmpegsumo.so file will be in ./usr/chromium-browsers folder.
+解压 DEB 文件并把 libffmpegsumo.so 文件放入程序文件夹下。解压后 libffmpegsumo.so 文件将会在：你解压的目录/usr/chromium-browsers 文件夹下。
 
-Usage
+使用方法
 --------
-Just Open It!
+打开即可！
 
-Screenshots
+截图
 --------
-Windows Version:  
+Windows 版:  
 ![windows-start](http://cdn.code5light.com/node-webkit-moere/00.png)
 
 ![windows-play](http://cdn.code5light.com/node-webkit-moere/01.png)
 
-Ubuntu Version:  
+Ubuntu 版:  
 ![ubuntu-start](http://cdn.code5light.com/node-webkit-moere/03.jpg)
 
 ![ubuntu-play](http://cdn.code5light.com/node-webkit-moere/04.jpg)
 
-Mac OS X Version:
+Mac OS X 版:
 ![mac-os-x-start](http://cdn.code5light.com/node-webkit-moere/06.png)
 
 ![max-os-x-play](http://cdn.code5light.com/node-webkit-moere/07.png)
 
-And ... Windows XP:  
+以及 ... Windows XP:  
 ![windows-xp](http://cdn.code5light.com/node-webkit-moere/05.jpg)
 
-ChangeLog
+版本日志
 --------
 V1.0.1:  
-Now you can back to main screen by close Radio window  
+现在当你关闭电台窗口时可以返回主界面  
 V1.0.0:  
-Add User Setting Page  
-Add Listen music by Music ID  
-Add Listen music follow other user  
+增加了用户设置页面  
+增加了通过歌曲ID收听的功能  
+增加了跟听用户的功能  
 V0.0.1:  
-First Version
+第一版
