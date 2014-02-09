@@ -18,3 +18,10 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+附加条款：
+
+被授权人理应知晓该软件的电台、登录、设置功能基于 Moe.re 网站的网页功能，在使用中的任何问题与本软件无关。
+被授权人理应知晓该软件为 Moe.re 电台的第三方客户端，不由官方进行维护，任何软件问题与 Moe.re 网站无关。
+当被授权人基于该软件进行改进（指对除 node-webkit 外的真正提供功能的本地网页或资源文件的修改）并发布新版本时，在发布时应写明是基于该软件进行的修改。（提交Pull Request不在此范围内）。
+被授权人可以对该软件的可执行文件进行脱壳（UPX壳）并直接读取资源文件。
