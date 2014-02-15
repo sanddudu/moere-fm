@@ -69,3 +69,7 @@ Mac OS X 版:
 
 以及 ... Windows XP:  
 ![windows-xp](http://cdn.code5light.com/node-webkit-moere/05.jpg)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sanddudu/moere-fm/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
