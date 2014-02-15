@@ -1,0 +1,1 @@
+win.setResizable(0);
